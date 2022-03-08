@@ -26,6 +26,13 @@ codegen/
 
 # Simulink cache files
 *.slxc
+*.original
+*.eep
+*.hex
+*.elf
+
+# Simulink 3D Animation
+*.wrl.*
 
 # Octave session info
 octave-workspace
